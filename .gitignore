@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 *.csv
 *.ipynb_checkpoints
 *.pem
 *.docx
 *.env
 *.png
+=======
+.env
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.csv
+*.txt
+>>>>>>> aececd61e548556e5e7f5377c17457ffb6abde67
